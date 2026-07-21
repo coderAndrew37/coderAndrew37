@@ -2,7 +2,7 @@
 
 ### Full-Stack Developer | Founder of [Sleek Sites](https://sleeksites.co.ke) 
 
-I am a results-driven developer and entrepreneur based in Kenya, currently in my final year of Computer Science at Maseno University. I specialize in building high-performance web applications and AI-driven automation systems designed to scale businesses.
+I am a results-driven developer and entrepreneur based in Kenya, a graduate of Computer Science at Maseno University. I specialize in building high-performance web applications and AI-driven automation systems designed to scale businesses.
 
 ---
 
